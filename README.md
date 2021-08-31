@@ -1,4 +1,4 @@
-This project allow users to store and view their images.
+This project allows users to store and view their images.
 
 ## Usage
 
